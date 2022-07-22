@@ -1,0 +1,5 @@
+Una variable es una forma de guardar algo para usarlo mas tarde y para crearlas utilizamos la palabra var seguida de un espacio y el nombre de la variable. Tambien podemos asignarle valor con el singo =.
+Los strings son bloques de texto y siempre van entre comillas "".
+Una funcion es un objeto invocable, es decir que la podemos llamar en un futuro. Una funcion empieza con la palabra function seguida de un nombre, luego abre y cierra parentesis(), y finalmente abre y cierra corchetes {}. A las funciones podemos agregarles argumentos, que son basicamente variables que declaramos dentro de los parentesis y que podemos usar dentro de nuestra funcion. Para poder devolverle algo a la funcion, usamos la declaracion return(retorno).
+Existe algo llamado control flow, que sirve para verificar si algo es 'true', ya sea ejecutando un codigo si es asi o avanzando si no lo es. Para ello usamos la declaracion 'if'.
+En los valores booleanos solo hay dos opciones, activar o desactivar, verdadero o falso, 0 o 1.
