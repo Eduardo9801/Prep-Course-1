@@ -1,0 +1,4 @@
+La mayoría de los software se ejectuan en bucles, evaluando expresiones una y otra vez hasta que se cumle lo que estamos buscando. Para ello, en javascript tenemos la expresion for. Tiene la siguiente sintaxis: for seguido de abre y cierra parentesis y luego abre y cierra llaves. En primera instancia tenemos una variable que se repetira en bucle. Segundo tenemos una expresion condicional, que se detendrá cuando esta declaracion se false. Y tercero iremos incremetando el valor de la variable.
+"&&" el operador logico (Y) sirve para comparar dos expresiones, que si ambas son verdaderas, devolverá true. Si una o ambas son falsas, devolverá false.
+"||" el operador logico (O) sirve para comparar dos expresiones, que si una o ambas es verdadera, devolverá true. Si ambas son falsas, devolverá false.
+"!" el operador logico (NO) devolvera el valor booleano contrario del que se le pase.
