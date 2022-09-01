@@ -1,0 +1,6 @@
+A diferencia de las matrices, los objetos contienen mucha información acerca de una sola cosa.
+Una propiedad es una asociación entre un nombre (o clave) y un valor. 
+El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método.
+A veces queremos iterar sobre cada par clave-valor en nuestro objeto. Los objetos no contienen índices numéricos, por lo que el bucle estándar no funcionará para los objetos. Javascript tiene un segundo tipo de bucle for integrado llamado "*for ... in loop*". Es una sintaxis ligeramente diferente, comienza igual pero entre paréntesis declararemos una variable, la palabra clave `in` y el nombre del objeto. Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves. Podemos usar esta clave, y la notación de corchetes, en nuestro bucle for para acceder al valor asociado con esa clave.
+Con la notación de puntos podemos llamar al nombre del objeto, un punto y el nombre de la clave.
+La notación de corchetes es como llamar a un elemento en una matriz, aunque con corchetes debemos usar una cadena o número, o una variable que apunte a una cadena o número. Se puede llamar a cada clave envolviéndola con comillas.
